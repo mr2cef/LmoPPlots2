@@ -1,3 +1,4 @@
-- Wants to write a dissertation why [[Thundertree]] was overrun by undead
--
+- Wants to write a dissertation why [[Thundertree]] was overrun by undead.
+- Works at [[Univeristy of Neverwinter]] to do her PhD.
+- Finds a black stone. Thinks
 - ![image.png](../assets/image_1728329499944_0.png)
