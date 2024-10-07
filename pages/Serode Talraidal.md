@@ -1,5 +1,5 @@
 - Wants to write a dissertation why [[Thundertree]] was overrun by undead.
 - Works at [[Univeristy of Neverwinter]] to do her PhD.
-- Finds a [black stone]([[Big bad Black Stone]]) this attracks undead.
+- Finds a [Unremarkable, rusty iron ring]([[Ring des Verlorenen]]) this attracks undead.
 - . Thinks, this attracks
 - ![image.png](../assets/image_1728329499944_0.png)
