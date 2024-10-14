@@ -2,7 +2,7 @@ type:: [[Artefakt]]
 icon:: 💍
 exclude-from-graph-view:: false
 
-- {{query (property :type [[Artefakt]])}}
+- {{query (and (property :type [[Artefakt]]) (not))}}
   query-table:: true
   query-properties:: [:icon :page]
   query-sort-by:: page
